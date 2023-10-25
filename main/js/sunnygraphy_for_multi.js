@@ -1,0 +1,8 @@
+/***************************************************************************/
+/*                                                                         */
+/*  This obfuscated code was created by Javascript Obfuscator Free Version.*/
+/*  Javascript Obfuscator Free Version can be downloaded here              */
+/*  http://javascriptobfuscator.com                                        */
+/*                                                                         */
+/***************************************************************************/
+var _$_20fa=["\x75\x73\x65\x20\x73\x74\x72\x69\x63\x74","\x63\x72\x65\x61\x74\x65\x64\x20\x79\x65\x73\x74\x6F\x73\x6C\x69\x64\x65\x41\x75\x74\x6F\x5F\x6D\x75\x6C\x74\x69","\x6C\x6F\x67","\x67\x65\x74\x5F\x61\x6C\x6C\x5F\x6D\x79\x5F\x73\x65\x73\x73\x69\x6F\x6E\x73","\x70\x72\x6F\x74\x6F\x74\x79\x70\x65","\x67\x65\x74\x5F\x63\x75\x72\x72\x65\x6E\x74\x55\x73\x65\x72","\x65\x6D\x61\x69\x6C","\x73\x68\x61\x32\x35\x36","\x76\x61\x6C\x75\x65","\x6F\x6E\x63\x65","\x74\x68\x69\x73\x69\x73\x6E\x65\x76\x65\x72\x74\x68\x61\x74\x2F\x63\x75\x72\x72\x65\x6E\x74\x5F\x73\x6C\x69\x64\x65\x73\x2F","\x2F","\x2F\x77\x69\x74\x68\x5F\x63\x6C\x69\x65\x6E\x74\x73\x2F","\x72\x65\x66","\x64\x61\x74\x61\x62\x61\x73\x65","\x66\x69\x72\x65\x62\x61\x73\x65"];var yestoslideAuto_multi=(function(_0x16693){_$_20fa[0];function yestoslideAuto_multi(){console[_$_20fa[2]](_$_20fa[1])}yestoslideAuto_multi[_$_20fa[4]][_$_20fa[3]]= function(_0x166F4){var _0x167B6=_0x16693[_$_20fa[5]]();var _0x16755=_0x16693[_$_20fa[7]](_0x167B6[_$_20fa[6]]);_0x16693[_$_20fa[15]][_$_20fa[14]]()[_$_20fa[13]](_$_20fa[10]+ _0x16755+ _$_20fa[11]+ get_photoID_hash()+ _$_20fa[12])[_$_20fa[9]](_$_20fa[8],function(_0x16817){})};return yestoslideAuto_multi})(this)
